@@ -369,6 +369,17 @@
     .waveAnimation .waveBottom {
         animation: move_wave 25s linear infinite;
     }
+
+    .heading h5 {
+      color: aliceblue;
+      margin: 0%;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      font-size: 12px;
+      font-weight: 100;
+    }
+    strong { font-size: 13px;}
+  
     
     .container {
         margin-top: 2%;
