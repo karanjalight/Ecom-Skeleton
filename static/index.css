@@ -187,9 +187,44 @@
     margin-top: 2%;
     margin-left: 200px;
     margin-right: 200px;
+    width: 70%;
     background-color: #e54750;
     height: auto;
+   
 }
+
+.card {
+  width: 200px !important;
+  margin: 10px;
+  border: 3px solid #222;
+  margin-right: 5vh;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.category {
+  background-color: lightblue;
+border: 1px solid black;
+height: 300px;
+width: 878px;
+overflow-x: scroll;   
+display: flex;
+flex-wrap: nowrap;
+}
+
+.top {
+  display: flex;
+flex-wrap: nowrap;
+
+}
+
+.carf {
+  width: 150px;
+  border: 2px solid violet;
+  height: 200px;
+}
+
+
 }
 
 
